@@ -39,6 +39,7 @@ input,
 textarea,
 button {
   font: 400 1rem "Inter", sans-serif;
+  overflow: hidden;
 
   /* 1rem == 16px */
 }
@@ -52,7 +53,7 @@ a {
   text-decoration: none;
 }
 
-footer {
+/* footer {
   display: flex;
 
   align-items: center;
@@ -65,3 +66,4 @@ footer {
   background: var(--white);
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
 }
+ */
