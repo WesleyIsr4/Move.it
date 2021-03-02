@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  height: 100vh;
+  width: 3rem;
+  padding: 2.3rem 2.2rem;
+
+  background: var(--white);
+}
+
+.container a {
+  display: flex;
+  cursor: pointer;
+  position: relative;
+
+  transition: color 0.1s;
+}
+
+.container a:hover {
+  color: var(--blue-dark);
+}
