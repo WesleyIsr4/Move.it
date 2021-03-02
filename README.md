@@ -5,10 +5,10 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/WesleyIsr4/Move-it?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gabrielpdev/Move-it">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WesleyIsr4/Move-it">
   	
   <a href="https://www.linkedin.com/in/wesleyisrael/">
-    <img alt="Made by Wesley Israel" src="https://img.shields.io/badge/made%20by-Gabrielpdev-%2304D361">
+    <img alt="Made by Wesley Israel" src="https://img.shields.io/badge/made%20by-WesleyIsr4-%2304D361">
   </a>
 	  
   <a href="https://github.com/WesleyIsr4/Move-it/commits/master">
@@ -70,6 +70,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - ⚛️ [React][reactjs]
 - 🔼 [NextJs][next]
 - 💅 [Styled-components][styled-components]
+
+## ⚒ Futuras features
+
+- [Leaderboards]
+- [Dashboard]
+- [Compartilhar]
 
 ## 🤔 Como contribuir <a name = "contribute"></a>
 
