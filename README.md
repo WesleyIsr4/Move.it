@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img alt="Move-it" title="#Move-it" src=".github/Move.it 1.0 (Copy).png"/>
+  <img alt="Move-it" title="#Move-it" src="/public/logo-full.svg"/>
 </h2>
   
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="Move-it" title="#Move-it" src=".github/Home.svg" width="350px" />
+  <img alt="Move-it" title="#Move-it" src=".github/Move.it 1.0 (Copy).png" width="350px" />
 </h2>
 
 ## 📝 Conteúdo
